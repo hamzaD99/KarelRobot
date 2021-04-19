@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="karel">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/karel/karel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/karel.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

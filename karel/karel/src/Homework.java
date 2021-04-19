@@ -1,5 +1,3 @@
-package KarelRobot;
-
 import stanford.karel.SuperKarel;
 
 /**
@@ -130,12 +128,6 @@ public class Homework extends SuperKarel {
             move();
             x++;
         }
-        /*System.out.println("------------------------------");
-        System.out.print("x= ");
-        System.out.println(x);
-        System.out.print("y= ");
-        System.out.println(y);
-        System.out.println("------------------------------");*/
     }
 
     private boolean goTo(int x_dest, int y_dest) {
